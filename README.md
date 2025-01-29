@@ -21,6 +21,6 @@ Visual communication through advanced Power BI features.
 
 ![WhatsApp Image 2025-01-28 at 21 34 22_d4232361](https://github.com/user-attachments/assets/a30a36f4-bc72-451f-9fca-c5691762bedf)
 
-#Acknowledgments
+# Acknowledgments
 
 Data Source: Kaggle’s Personality survey Dataset
