@@ -5,11 +5,18 @@
 
 3) Elevate your data analysis skills: Follow along as we guide you through importing, cleaning, and shaping the dataset with Power BI. Learn to craft interactive dashboards, engaging visualizations, and insightful reports that bring your findings to life.
 
-4) # Key Topics Covered 
+# Key Topics Covered 
 
-Data preprocessing and transformation using Power Query
-Crafting dynamic dashboards and interactive reports
-Personality trait analysis and behavioral trends
-Segmenting survey participants based on traits
-Extracting actionable insights for decision-making
-Visual communication through advanced Power BI features
+Data preprocessing and transformation using Power Query.
+
+rafting dynamic dashboards and interactive reports.
+
+Personality trait analysis and behavioral trends.
+
+Segmenting survey participants based on traits.
+
+Extracting actionable insights for decision-making.
+
+Visual communication through advanced Power BI features.
+
+![WhatsApp Image 2025-01-28 at 21 34 22_d4232361](https://github.com/user-attachments/assets/a30a36f4-bc72-451f-9fca-c5691762bedf)
